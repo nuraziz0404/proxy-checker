@@ -56,7 +56,7 @@ def check (proxs:Array):
          except requests.exceptions.RequestException  as e:
             msg = f"{add} | "+str(e.args[0].reason.args[-1]).split(":")[-1]
             print(msg)
-            open(invalidFile, "a").write(msg)
+            open(invalidFile, "a").write(msg+"\n")
 
 
 def is_any_thread_alive(thr):
