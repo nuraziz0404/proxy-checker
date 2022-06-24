@@ -38,3 +38,39 @@
 80.81.232.145:5678 | Connection to 80.81.232.145 timed out. (connect timeout=60)
 80.82.147.3:4153 | Connection to 80.82.147.3 timed out. (connect timeout=60)
 80.85.98.110:5678 | [Errno 104] Connection reset by peer
+81.167.91.154:3000 | [Errno 104] Connection reset by peer
+80.89.137.54:4145 | Connection to 80.89.137.54 timed out. (connect timeout=60)
+81.183.253.34:4145 | Connection to 81.183.253.34 timed out. (connect timeout=60)
+80.89.137.210:4145 | Connection to 80.89.137.210 timed out. (connect timeout=60)
+80.89.137.214:4145 | Connection to 80.89.137.214 timed out. (connect timeout=60)
+82.66.106.125:80 | Connection to 82.66.106.125 timed out. (connect timeout=60)
+82.99.203.76:58523 | Remote end closed connection without response
+80.91.120.38:5678 | Remote end closed connection without response
+82.103.118.42:1099 | Connection to 82.103.118.42 timed out. (connect timeout=60)
+80.191.40.41:5678 | Connection to 80.191.40.41 timed out. (connect timeout=60)
+82.117.204.174:5678 | Connection to 82.117.204.174 timed out. (connect timeout=60)
+80.191.46.60:1515 | Connection to 80.191.46.60 timed out. (connect timeout=60)
+82.137.224.193:8291 | Connection to 82.137.224.193 timed out. (connect timeout=60)
+82.137.250.18:5678 | Remote end closed connection without response
+80.191.169.69:4145 | Connection to 80.191.169.69 timed out. (connect timeout=60)
+82.137.250.156:4145 | Connection to 82.137.250.156 timed out. (connect timeout=60)
+82.156.170.19:1080 |  SysCallError(-1, 'Unexpected EOF')",)
+80.191.185.156:5678 | Connection to 80.191.185.156 timed out. (connect timeout=60)
+82.200.55.38:4145 | Connection to 82.200.55.38 timed out. (connect timeout=60)
+82.206.131.62:10801 | Remote end closed connection without response
+82.207.20.247:5678 | Connection to 82.207.20.247 timed out. (connect timeout=60)
+80.191.250.162:7070 | Connection to 80.191.250.162 timed out. (connect timeout=60)
+83.103.195.183:4145 | Connection to 83.103.195.183 timed out. (connect timeout=60)
+80.210.56.169:4153 | Remote end closed connection without response
+83.166.226.72:5678 | Connection to 83.166.226.72 timed out. (connect timeout=60)
+80.235.239.130:1080 | Connection to 80.235.239.130 timed out. (connect timeout=60)
+80.241.44.34:5678 | Connection to 80.241.44.34 timed out. (connect timeout=60)
+80.254.104.8:4145 | [Errno 104] Connection reset by peer
+83.218.186.22:5678 | Connection to 83.218.186.22 timed out. (connect timeout=60)
+83.220.234.102:5678 | Remote end closed connection without response
+81.1.195.165:4145 | Connection to 81.1.195.165 timed out. (connect timeout=60)
+84.22.45.175:1080 | Connection to 84.22.45.175 timed out. (connect timeout=60)
+84.51.56.123:4145 | Remote end closed connection without response
+81.16.9.222:3629 | Connection to 81.16.9.222 timed out. (connect timeout=60)
+81.17.94.50:47163 | Remote end closed connection without response
+84.54.202.216:4145 | Connection to 84.54.202.216 timed out. (connect timeout=60)
