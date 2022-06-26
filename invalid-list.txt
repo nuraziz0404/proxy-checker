@@ -3354,3 +3354,7 @@
 212.34.239.253:1080 | [Errno 104] Connection reset by peer
 74.62.55.194:64312 | Connection to 74.62.55.194 timed out. (connect timeout=60)
 103.250.153.202:41889 | [Errno 104] Connection reset by peer
+84.53.239.95:4145 | Remote end closed connection without response
+103.68.35.162:4145 | Connection to 103.68.35.162 timed out. (connect timeout=60)
+184.105.133.1:48324 | Connection to 184.105.133.1 timed out. (connect timeout=60)
+180.122.190.242:1080 | Remote end closed connection without response
