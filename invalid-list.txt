@@ -5963,3 +5963,27 @@
 93.171.224.60:4153 | Connection to 93.171.224.60 timed out. (connect timeout=60)
 94.101.140.131:9999 | Connection to 94.101.140.131 timed out. (connect timeout=60)
 72.195.34.35:27360 | [Errno 104] Connection reset by peer
+200.10.73.210:5678 | Connection to 200.10.73.210 timed out. (connect timeout=60)
+24.139.149.78:5678 | Connection to 24.139.149.78 timed out. (connect timeout=60)
+24.75.156.114:3366 | Remote end closed connection without response
+185.213.156.226:51971 | Connection to 185.213.156.226 timed out. (connect timeout=60)
+31.42.6.125:5678 | Connection to 31.42.6.125 timed out. (connect timeout=60)
+154.73.85.37:57932 | Connection to 154.73.85.37 timed out. (connect timeout=60)
+92.202.16.197:80 | Remote end closed connection without response
+1.221.173.148:4145 | [Errno 104] Connection reset by peer
+91.147.235.99:4145 | Connection to 91.147.235.99 timed out. (connect timeout=60)
+194.85.135.243:4145 | Connection to 194.85.135.243 timed out. (connect timeout=60)
+47.243.40.107:80 | Connection to 47.243.40.107 timed out. (connect timeout=60)
+197.246.229.161:8080 | Connection to 197.246.229.161 timed out. (connect timeout=60)
+187.1.57.206:20183 | Connection to 187.1.57.206 timed out. (connect timeout=60)
+31.173.10.58:3128 | Connection to 31.173.10.58 timed out. (connect timeout=60)
+190.119.167.154:5678 | Connection to 190.119.167.154 timed out. (connect timeout=60)
+185.235.43.196:8118 | Connection to 185.235.43.196 timed out. (connect timeout=60)
+137.74.223.236:6036 |  [Errno 111] Connection refused
+41.84.135.102:8080 | Connection to 41.84.135.102 timed out. (connect timeout=60)
+80.243.158.6:8080 | Connection to 80.243.158.6 timed out. (connect timeout=60)
+158.58.134.15:5678 | Connection to 158.58.134.15 timed out. (connect timeout=60)
+195.140.226.244:8080 | Connection to 195.140.226.244 timed out. (connect timeout=60)
+202.44.228.141:4153 | Connection to 202.44.228.141 timed out. (connect timeout=60)
+72.221.196.157:35904 | [Errno 104] Connection reset by peer
+177.130.104.81:7171 | Connection to 177.130.104.81 timed out. (connect timeout=60)
