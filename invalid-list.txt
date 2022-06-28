@@ -7490,3 +7490,33 @@
 103.250.152.20:5678 | Connection to 103.250.152.20 timed out. (connect timeout=60)
 77.105.12.101:6666 | Connection to 77.105.12.101 timed out. (connect timeout=60)
 181.129.74.186:5678 | Connection to 181.129.74.186 timed out. (connect timeout=60)
+194.12.124.188:3629 | Remote end closed connection without response
+183.111.25.253:8080 | Connection to 183.111.25.253 timed out. (connect timeout=60)
+185.126.47.75:5678 | Connection to 185.126.47.75 timed out. (connect timeout=60)
+27.72.122.228:51067 | Connection to 27.72.122.228 timed out. (connect timeout=60)
+218.39.136.163:8000 | Connection to 218.39.136.163 timed out. (connect timeout=60)
+185.108.141.19:8080 | Connection to 185.108.141.19 timed out. (connect timeout=60)
+125.141.139.110:5566 | [Errno 104] Connection reset by peer
+103.213.237.129:8080 | Connection to 103.213.237.129 timed out. (connect timeout=60)
+43.245.94.242:4153 | Remote end closed connection without response
+82.142.147.174:4145 | Connection to 82.142.147.174 timed out. (connect timeout=60)
+74.62.55.194:64312 | Connection to 74.62.55.194 timed out. (connect timeout=60)
+80.53.255.194:4153 | Connection to 80.53.255.194 timed out. (connect timeout=60)
+80.80.164.164:10801 | Remote end closed connection without response
+92.247.2.26:21231 | Connection to 92.247.2.26 timed out. (connect timeout=60)
+172.105.40.196:7497 |  [Errno 111] Connection refused
+41.60.237.55:8080 |  [Errno 111] Connection refused
+185.31.175.15:8080 |  [Errno 111] Connection refused
+41.65.236.53:1976 | Connection to 41.65.236.53 timed out. (connect timeout=60)
+103.69.38.1:8080 | Connection to 103.69.38.1 timed out. (connect timeout=60)
+186.103.142.221:999 |  [Errno 111] Connection refused
+8.242.207.202:8080 | Connection to 8.242.207.202 timed out. (connect timeout=60)
+177.141.99.50:8080 | Connection to 177.141.99.50 timed out. (connect timeout=60)
+217.57.234.27:80 | Connection to 217.57.234.27 timed out. (connect timeout=60)
+192.111.135.18:18301 | [Errno 104] Connection reset by peer
+196.20.21.82:8080 | Connection to 196.20.21.82 timed out. (connect timeout=60)
+201.249.161.51:999 | Connection to 201.249.161.51 timed out. (connect timeout=60)
+171.100.8.82:49181 | Connection to 171.100.8.82 timed out. (connect timeout=60)
+208.102.51.6:58208 | [Errno 104] Connection reset by peer
+192.252.208.70:14282 | [Errno 104] Connection reset by peer
+188.165.59.127:80 |  [Errno 111] Connection refused
