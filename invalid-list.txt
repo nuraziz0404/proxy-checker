@@ -8728,3 +8728,27 @@
 181.208.116.52:4153 |  [Errno 111] Connection refused
 41.220.238.137:83 | Connection to 41.220.238.137 timed out. (connect timeout=60)
 216.155.89.66:999 | Connection to 216.155.89.66 timed out. (connect timeout=60)
+70.35.213.226:4153 | Remote end closed connection without response
+185.237.10.185:9812 |  [Errno 111] Connection refused
+85.133.130.18:8080 | Connection to 85.133.130.18 timed out. (connect timeout=60)
+104.248.90.212:80 | Connection to 104.248.90.212 timed out. (connect timeout=60)
+189.89.159.30:8089 | Connection to 189.89.159.30 timed out. (connect timeout=60)
+201.138.64.12:5678 | Connection to 201.138.64.12 timed out. (connect timeout=60)
+202.44.224.85:4153 | Connection to 202.44.224.85 timed out. (connect timeout=60)
+77.39.117.17:80 | Connection to 77.39.117.17 timed out. (connect timeout=60)
+185.88.158.34:3128 | Connection to 185.88.158.34 timed out. (connect timeout=60)
+103.87.212.15:4153 | [Errno 104] Connection reset by peer
+213.149.137.24:4153 | Connection to 213.149.137.24 timed out. (connect timeout=60)
+124.158.186.34:5678 | Connection to 124.158.186.34 timed out. (connect timeout=60)
+51.75.64.91:7497 |  [Errno 111] Connection refused
+202.56.164.174:5678 | Connection to 202.56.164.174 timed out. (connect timeout=60)
+190.119.167.11:5678 | Connection to 190.119.167.11 timed out. (connect timeout=60)
+92.60.238.12:80 | Connection to 92.60.238.12 timed out. (connect timeout=60)
+156.0.229.194:42692 | Remote end closed connection without response
+188.121.123.153:3128 | Connection to 188.121.123.153 timed out. (connect timeout=60)
+190.106.203.86:5678 | Remote end closed connection without response
+134.195.101.83:10802 |  [Errno 111] Connection refused
+186.208.19.61:5678 | Connection to 186.208.19.61 timed out. (connect timeout=60)
+116.212.142.231:33427 | Connection to 116.212.142.231 timed out. (connect timeout=60)
+183.88.219.206:41564 | Connection to 183.88.219.206 timed out. (connect timeout=60)
+125.141.133.48:5566 | Connection to 125.141.133.48 timed out. (connect timeout=60)
