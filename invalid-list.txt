@@ -8558,3 +8558,30 @@
 1.9.167.35:60489 | Connection to 1.9.167.35 timed out. (connect timeout=60)
 197.221.90.54:56810 | Connection to 197.221.90.54 timed out. (connect timeout=60)
 186.211.8.1:35852 | Connection to 186.211.8.1 timed out. (connect timeout=60)
+24.37.245.42:51056 | [Errno 104] Connection reset by peer
+103.76.201.118:8291 | Remote end closed connection without response
+98.170.57.231:4145 | [Errno 104] Connection reset by peer
+85.214.131.150:7497 |  [Errno 111] Connection refused
+60.198.53.23:80 | [Errno 104] Connection reset by peer
+46.8.247.3:38279 | Connection to 46.8.247.3 timed out. (connect timeout=60)
+193.106.138.52:3128 | Connection to 193.106.138.52 timed out. (connect timeout=60)
+119.235.50.58:4153 | Remote end closed connection without response
+103.106.112.11:5430 | Remote end closed connection without response
+125.25.40.37:8080 | Connection to 125.25.40.37 timed out. (connect timeout=60)
+54.36.230.214:1080 | Remote end closed connection without response
+50.237.206.138:64312 | Connection to 50.237.206.138 timed out. (connect timeout=60)
+213.6.38.50:59422 | Connection to 213.6.38.50 timed out. (connect timeout=60)
+79.143.225.152:31270 | Remote end closed connection without response
+180.191.255.117:5678 | Remote end closed connection without response
+161.49.222.67:4145 | Connection to 161.49.222.67 timed out. (connect timeout=60)
+72.195.34.42:4145 | [Errno 104] Connection reset by peer
+186.137.12.51:4145 | Connection to 186.137.12.51 timed out. (connect timeout=60)
+122.52.187.137:5678 | [Errno 104] Connection reset by peer
+1.10.189.133:50855 | Connection to 1.10.189.133 timed out. (connect timeout=60)
+201.71.2.41:999 | Connection to 201.71.2.41 timed out. (connect timeout=60)
+154.70.151.73:5678 | Connection to 154.70.151.73 timed out. (connect timeout=60)
+181.49.100.190:8080 | Connection to 181.49.100.190 timed out. (connect timeout=60)
+45.65.132.148:8080 | Connection to 45.65.132.148 timed out. (connect timeout=60)
+185.32.6.129:8090 | Connection to 185.32.6.129 timed out. (connect timeout=60)
+185.56.180.14:5678 | Remote end closed connection without response
+50.250.205.21:32100 | Remote end closed connection without response
