@@ -9125,3 +9125,37 @@
 185.179.214.79:41258 | Connection to 185.179.214.79 timed out. (connect timeout=60)
 181.143.106.162:52151 | Connection to 181.143.106.162 timed out. (connect timeout=60)
 94.181.33.149:40840 | Connection to 94.181.33.149 timed out. (connect timeout=60)
+72.221.172.203:4145 | [Errno 104] Connection reset by peer
+151.22.181.214:8080 | Connection to 151.22.181.214 timed out. (connect timeout=60)
+170.81.35.26:33566 | Connection to 170.81.35.26 timed out. (connect timeout=60)
+170.83.78.1:999 | Connection to 170.83.78.1 timed out. (connect timeout=60)
+14.226.38.217:5678 | Connection to 14.226.38.217 timed out. (connect timeout=60)
+85.196.136.13:4153 | Connection to 85.196.136.13 timed out. (connect timeout=60)
+179.191.23.38:5678 | Remote end closed connection without response
+185.17.134.149:61535 | Connection to 185.17.134.149 timed out. (connect timeout=60)
+185.18.72.249:4153 | Remote end closed connection without response
+200.8.19.18:999 | Connection to 200.8.19.18 timed out. (connect timeout=60)
+88.255.185.230:8080 | Connection to 88.255.185.230 timed out. (connect timeout=60)
+213.6.68.94:5678 | Connection to 213.6.68.94 timed out. (connect timeout=60)
+190.6.54.5:8080 | Connection to 190.6.54.5 timed out. (connect timeout=60)
+217.11.180.168:5678 | Connection to 217.11.180.168 timed out. (connect timeout=60)
+185.14.121.211:7890 | Connection to 185.14.121.211 timed out. (connect timeout=60)
+41.65.236.48:1976 | Connection to 41.65.236.48 timed out. (connect timeout=60)
+88.204.184.242:3629 | Connection to 88.204.184.242 timed out. (connect timeout=60)
+40.136.41.6:1080 | Remote end closed connection without response
+85.121.208.223:2019 | Connection to 85.121.208.223 timed out. (connect timeout=60)
+93.104.208.238:3128 |  [Errno 111] Connection refused
+93.179.216.238:80 | Connection to 93.179.216.238 timed out. (connect timeout=60)
+177.55.207.38:8080 | Connection to 177.55.207.38 timed out. (connect timeout=60)
+190.202.94.210:8080 | Connection to 190.202.94.210 timed out. (connect timeout=60)
+212.200.44.246:9812 | Connection to 212.200.44.246 timed out. (connect timeout=60)
+93.158.214.153:3128 | Connection to 93.158.214.153 timed out. (connect timeout=60)
+77.120.187.185:8080 | Connection to 77.120.187.185 timed out. (connect timeout=60)
+103.196.233.199:8080 | Connection to 103.196.233.199 timed out. (connect timeout=60)
+79.143.30.163:8080 | Connection to 79.143.30.163 timed out. (connect timeout=60)
+222.111.184.59:80 | [Errno 104] Connection reset by peer
+187.37.121.236:4153 | Connection to 187.37.121.236 timed out. (connect timeout=60)
+188.133.152.125:8080 | Connection to 188.133.152.125 timed out. (connect timeout=60)
+85.55.167.178:5678 | Remote end closed connection without response
+41.65.181.142:8089 | Connection to 41.65.181.142 timed out. (connect timeout=60)
+113.11.60.253:5678 | Remote end closed connection without response
