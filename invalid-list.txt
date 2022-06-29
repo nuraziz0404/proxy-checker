@@ -8331,3 +8331,5 @@
 162.14.135.190:10800 | timed out
 58.147.170.117:8085 | Connection to 58.147.170.117 timed out. (connect timeout=60)
 115.87.154.67:8080 | Connection to 115.87.154.67 timed out. (connect timeout=60)
+177.12.177.2:4153 | Connection to 177.12.177.2 timed out. (connect timeout=60)
+124.109.44.126:4145 | Connection to 124.109.44.126 timed out. (connect timeout=60)
