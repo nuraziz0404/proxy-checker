@@ -9518,3 +9518,23 @@
 170.244.0.179:4145 | Connection to 170.244.0.179 timed out. (connect timeout=60)
 91.238.52.18:7777 | Connection to 91.238.52.18 timed out. (connect timeout=60)
 103.116.118.10:4145 | Connection to 103.116.118.10 timed out. (connect timeout=60)
+208.100.20.136:80 | Connection to 208.100.20.136 timed out. (connect timeout=60)
+43.228.131.115:32992 | Connection to 43.228.131.115 timed out. (connect timeout=60)
+43.132.200.137:9812 | Connection to 43.132.200.137 timed out. (connect timeout=60)
+91.202.230.219:8080 | [Errno 104] Connection reset by peer
+178.252.175.16:8080 | Connection to 178.252.175.16 timed out. (connect timeout=60)
+103.79.74.3:4145 | [Errno 104] Connection reset by peer
+188.136.216.201:9080 | Connection to 188.136.216.201 timed out. (connect timeout=60)
+77.32.82.164:4153 | Connection to 77.32.82.164 timed out. (connect timeout=60)
+125.26.99.228:44052 | Connection to 125.26.99.228 timed out. (connect timeout=60)
+210.245.52.62:5678 | Connection to 210.245.52.62 timed out. (connect timeout=60)
+183.87.160.62:84 | Connection to 183.87.160.62 timed out. (connect timeout=60)
+177.128.44.131:31337 | Connection to 177.128.44.131 timed out. (connect timeout=60)
+79.127.56.147:8080 | Connection to 79.127.56.147 timed out. (connect timeout=60)
+36.92.165.201:5678 | Connection to 36.92.165.201 timed out. (connect timeout=60)
+98.162.25.23:4145 | [Errno 104] Connection reset by peer
+91.93.143.2:4153 | Connection to 91.93.143.2 timed out. (connect timeout=60)
+41.65.227.167:1981 | Connection to 41.65.227.167 timed out. (connect timeout=60)
+154.236.189.28:8080 | Connection to 154.236.189.28 timed out. (connect timeout=60)
+176.101.0.77:41890 | Connection to 176.101.0.77 timed out. (connect timeout=60)
+80.78.237.2:55443 | Connection to 80.78.237.2 timed out. (connect timeout=60)
