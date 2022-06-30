@@ -10603,3 +10603,19 @@
 178.62.202.227:7497 | Connection to 178.62.202.227 timed out. (connect timeout=60)
 174.77.111.196:4145 | [Errno 104] Connection reset by peer
 174.77.111.197:4145 | [Errno 104] Connection reset by peer
+72.195.114.169:4145 | [Errno 104] Connection reset by peer
+194.163.189.206:7497 | [Errno 104] Connection reset by peer
+207.148.73.207:7497 |  [Errno 111] Connection refused
+37.187.124.63:7497 |  [Errno 111] Connection refused
+67.201.33.9:25280 | [Errno 104] Connection reset by peer
+72.217.216.239:4145 | [Errno 104] Connection reset by peer
+70.166.167.55:57745 | [Errno 104] Connection reset by peer
+1.179.220.207:7497 |  [Errno 111] Connection refused
+123.58.210.11:6666 | Remote end closed connection without response
+43.156.74.237:1080 | Connection to 43.156.74.237 timed out. (connect timeout=60)
+24.249.199.12:4145 | [Errno 104] Connection reset by peer
+37.18.73.60:5566 |  [Errno 111] Connection refused
+39.102.238.138:10808 | Connection to 39.102.238.138 timed out. (connect timeout=60)
+43.224.10.37:6667 | Connection to 43.224.10.37 timed out. (connect timeout=60)
+46.105.142.10:7497 | [Errno 104] Connection reset by peer
+46.105.124.159:7497 | [Errno 104] Connection reset by peer
