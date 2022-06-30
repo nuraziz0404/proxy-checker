@@ -10115,3 +10115,32 @@
 95.0.206.51:10820 | Connection to 95.0.206.51 timed out. (connect timeout=60)
 192.252.208.70:14282 | [Errno 104] Connection reset by peer
 192.252.220.92:17328 | [Errno 104] Connection reset by peer
+167.99.96.87:7497 |  [Errno 111] Connection refused
+72.195.114.184:4145 | [Errno 104] Connection reset by peer
+97.74.230.87:31365 | Connection to 97.74.230.87 timed out. (connect timeout=60)
+98.170.57.231:4145 | [Errno 104] Connection reset by peer
+95.217.144.183:44965 | Connection to 95.217.144.183 timed out. (connect timeout=60)
+184.178.172.5:15303 | [Errno 104] Connection reset by peer
+51.222.146.133:7497 | [Errno 104] Connection reset by peer
+72.195.34.35:27360 | [Errno 104] Connection reset by peer
+222.124.177.148:7497 |  [Errno 111] Connection refused
+192.252.220.92:17328 | [Errno 104] Connection reset by peer
+43.224.10.35:6667 | Connection to 43.224.10.35 timed out. (connect timeout=60)
+54.38.134.231:7497 | Connection to 54.38.134.231 timed out. (connect timeout=60)
+46.105.142.10:7497 | [Errno 104] Connection reset by peer
+80.249.146.154:7497 | Connection to 80.249.146.154 timed out. (connect timeout=60)
+184.178.172.28:15294 | [Errno 104] Connection reset by peer
+98.162.96.53:10663 | [Errno 104] Connection reset by peer
+103.159.221.135:5678 | Connection to 103.159.221.135 timed out. (connect timeout=60)
+98.178.72.21:10919 | [Errno 104] Connection reset by peer
+72.210.208.101:4145 | [Errno 104] Connection reset by peer
+98.162.25.29:31679 | [Errno 104] Connection reset by peer
+5.9.14.194:52745 | Connection to 5.9.14.194 timed out. (connect timeout=60)
+88.99.142.113:64806 | Connection to 88.99.142.113 timed out. (connect timeout=60)
+195.95.222.210:1080 | Connection to 195.95.222.210 timed out. (connect timeout=60)
+95.0.206.51:10820 | Connection to 95.0.206.51 timed out. (connect timeout=60)
+72.206.181.123:4145 | [Errno 104] Connection reset by peer
+218.1.142.20:57114 | Connection to 218.1.142.20 timed out. (connect timeout=60)
+72.221.196.157:35904 | [Errno 104] Connection reset by peer
+192.111.130.2:4145 | [Errno 104] Connection reset by peer
+72.210.252.137:4145 | [Errno 104] Connection reset by peer
