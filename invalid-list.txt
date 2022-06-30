@@ -10066,3 +10066,13 @@
 195.95.222.210:1080 | Connection to 195.95.222.210 timed out. (connect timeout=60)
 194.163.189.206:7497 | [Errno 104] Connection reset by peer
 218.1.142.20:57114 | Connection to 218.1.142.20 timed out. (connect timeout=60)
+146.59.232.63:7497 |  [Errno 111] Connection refused
+178.128.117.95:7497 |  [Errno 111] Connection refused
+47.115.142.217:9999 | Connection to 47.115.142.217 timed out. (connect timeout=60)
+47.102.194.161:22002 |  [Errno 111] Connection refused
+178.176.61.171:1080 | Connection to 178.176.61.171 timed out. (connect timeout=60)
+193.29.63.45:57299 | Remote end closed connection without response
+184.178.172.28:15294 | [Errno 104] Connection reset by peer
+188.165.162.252:7497 | [Errno 104] Connection reset by peer
+192.111.130.5:17002 | [Errno 104] Connection reset by peer
+185.200.37.118:10820 | Connection to 185.200.37.118 timed out. (connect timeout=60)
