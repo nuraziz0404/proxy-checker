@@ -9822,3 +9822,23 @@
 36.89.89.59:5678 | Connection to 36.89.89.59 timed out. (connect timeout=60)
 36.95.132.253:5678 | Connection to 36.95.132.253 timed out. (connect timeout=60)
 36.95.235.18:3629 | Connection to 36.95.235.18 timed out. (connect timeout=60)
+38.83.108.16:5678 | [Errno 104] Connection reset by peer
+45.117.228.81:4145 | Connection to 45.117.228.81 timed out. (connect timeout=60)
+38.131.32.78:5678 | Connection to 38.131.32.78 timed out. (connect timeout=60)
+38.133.200.94:31596 | Connection to 38.133.200.94 timed out. (connect timeout=60)
+39.97.253.6:1080 | Remote end closed connection without response
+41.73.253.234:4145 | Connection to 41.73.253.234 timed out. (connect timeout=60)
+41.75.212.186:5678 | Connection to 41.75.212.186 timed out. (connect timeout=60)
+41.77.8.110:5678 | Remote end closed connection without response
+41.162.91.202:5678 | Connection to 41.162.91.202 timed out. (connect timeout=60)
+41.184.212.3:4153 | Connection to 41.184.212.3 timed out. (connect timeout=60)
+41.190.55.154:5678 | Connection to 41.190.55.154 timed out. (connect timeout=60)
+41.215.75.190:4673 | Remote end closed connection without response
+41.222.62.41:5678 | Connection to 41.222.62.41 timed out. (connect timeout=60)
+43.245.217.254:5678 | Connection to 43.245.217.254 timed out. (connect timeout=60)
+43.248.25.6:4145 | Remote end closed connection without response
+45.5.152.232:37762 | Connection to 45.5.152.232 timed out. (connect timeout=60)
+45.5.154.105:4145 | Connection to 45.5.154.105 timed out. (connect timeout=60)
+45.70.30.199:5678 | Remote end closed connection without response
+45.112.3.149:4145 | Connection to 45.112.3.149 timed out. (connect timeout=60)
+45.115.112.214:40308 | Connection to 45.115.112.214 timed out. (connect timeout=60)
