@@ -10791,3 +10791,27 @@
 185.246.153.1:3128 | Connection to 185.246.153.1 timed out. (connect timeout=60)
 45.184.103.67:999 | Connection to 45.184.103.67 timed out. (connect timeout=60)
 177.73.16.74:55443 | Connection to 177.73.16.74 timed out. (connect timeout=60)
+109.111.212.78:8080 | Connection to 109.111.212.78 timed out. (connect timeout=60)
+181.49.100.190:8080 | Connection to 181.49.100.190 timed out. (connect timeout=60)
+116.110.18.247:1080 | Connection to 116.110.18.247 timed out. (connect timeout=60)
+157.90.205.166:8080 | Connection to 157.90.205.166 timed out. (connect timeout=60)
+212.174.44.156:8080 | Connection to 212.174.44.156 timed out. (connect timeout=60)
+91.150.67.17:8080 | Connection to 91.150.67.17 timed out. (connect timeout=60)
+103.114.11.226:8080 | Connection to 103.114.11.226 timed out. (connect timeout=60)
+92.119.123.36:7497 | Connection to 92.119.123.36 timed out. (connect timeout=60)
+103.102.153.156:7497 | Connection to 103.102.153.156 timed out. (connect timeout=60)
+117.102.202.215:8080 | Connection to 117.102.202.215 timed out. (connect timeout=60)
+186.67.192.246:8080 | Connection to 186.67.192.246 timed out. (connect timeout=60)
+98.170.57.231:4145 | [Errno 104] Connection reset by peer
+80.191.162.2:514 | Connection to 80.191.162.2 timed out. (connect timeout=60)
+37.18.73.60:5566 |  [Errno 111] Connection refused
+72.195.34.58:4145 | [Errno 104] Connection reset by peer
+67.201.33.9:25280 | [Errno 104] Connection reset by peer
+85.214.131.150:7497 |  [Errno 111] Connection refused
+174.77.111.196:4145 | [Errno 104] Connection reset by peer
+125.25.32.71:8080 | Connection to 125.25.32.71 timed out. (connect timeout=60)
+88.255.102.116:8080 | Connection to 88.255.102.116 timed out. (connect timeout=60)
+82.165.105.48:80 | Connection to 82.165.105.48 timed out. (connect timeout=60)
+60.198.53.23:80 | Connection to 60.198.53.23 timed out. (connect timeout=60)
+193.106.138.52:3128 | Connection to 193.106.138.52 timed out. (connect timeout=60)
+213.171.69.67:8099 | Connection to 213.171.69.67 timed out. (connect timeout=60)
