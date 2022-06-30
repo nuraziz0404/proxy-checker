@@ -10590,3 +10590,8 @@
 192.99.38.64:1081 | Connection to 192.99.38.64 timed out. (connect timeout=60)
 192.111.129.145:16894 | [Errno 104] Connection reset by peer
 192.111.130.2:4145 | [Errno 104] Connection reset by peer
+194.29.187.184:13567 | Connection to 194.29.187.184 timed out. (connect timeout=60)
+195.2.71.201:16072 | Connection to 195.2.71.201 timed out. (connect timeout=60)
+195.15.240.27:1080 | [Errno 104] Connection reset by peer
+195.135.242.141:8081 | Connection to 195.135.242.141 timed out. (connect timeout=60)
+195.175.67.202:1080 | Connection to 195.175.67.202 timed out. (connect timeout=60)
