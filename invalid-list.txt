@@ -10595,3 +10595,11 @@
 195.15.240.27:1080 | [Errno 104] Connection reset by peer
 195.135.242.141:8081 | Connection to 195.135.242.141 timed out. (connect timeout=60)
 195.175.67.202:1080 | Connection to 195.175.67.202 timed out. (connect timeout=60)
+222.185.82.102:7302 | Remote end closed connection without response
+136.243.9.13:56789 | Connection to 136.243.9.13 timed out. (connect timeout=60)
+146.59.232.63:7497 |  [Errno 111] Connection refused
+174.75.211.222:4145 | [Errno 104] Connection reset by peer
+174.77.111.198:49547 | [Errno 104] Connection reset by peer
+178.62.202.227:7497 | Connection to 178.62.202.227 timed out. (connect timeout=60)
+174.77.111.196:4145 | [Errno 104] Connection reset by peer
+174.77.111.197:4145 | [Errno 104] Connection reset by peer
