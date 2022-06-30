@@ -10144,3 +10144,8 @@
 72.221.196.157:35904 | [Errno 104] Connection reset by peer
 192.111.130.2:4145 | [Errno 104] Connection reset by peer
 72.210.252.137:4145 | [Errno 104] Connection reset by peer
+184.178.172.13:15311 | [Errno 104] Connection reset by peer
+62.113.115.94:16072 |  [Errno 111] Connection refused
+207.148.73.207:7497 |  [Errno 111] Connection refused
+67.201.33.9:25280 | [Errno 104] Connection reset by peer
+72.221.164.34:60671 | [Errno 104] Connection reset by peer
