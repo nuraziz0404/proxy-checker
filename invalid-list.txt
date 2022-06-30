@@ -10358,3 +10358,12 @@
 192.111.135.17:18302 | [Errno 104] Connection reset by peer
 103.250.166.04:6667 | Connection to 103.250.166.04 timed out. (connect timeout=60)
 23.99.229.118:62134 | Connection to 23.99.229.118 timed out. (connect timeout=60)
+178.62.144.84:7497 |  [Errno 111] Connection refused
+172.104.210.40:7497 |  [Errno 111] Connection refused
+188.165.230.200:7497 | [Errno 104] Connection reset by peer
+46.101.232.224:7497 |  [Errno 111] Connection refused
+69.61.200.104:36181 | [Errno 104] Connection reset by peer
+46.105.166.24:7497 | Connection to 46.105.166.24 timed out. (connect timeout=60)
+45.55.227.238:7497 |  [Errno 111] Connection refused
+192.252.220.92:17328 | [Errno 104] Connection reset by peer
+151.236.61.6:7497 |  [Errno 111] Connection refused
