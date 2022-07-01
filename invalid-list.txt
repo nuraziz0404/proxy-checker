@@ -11377,3 +11377,5 @@
 146.59.232.63:7497 |  [Errno 111] Connection refused
 190.145.200.126:53281 | Connection to 190.145.200.126 timed out. (connect timeout=60)
 154.236.189.23:1981 | Connection to 154.236.189.23 timed out. (connect timeout=60)
+208.102.51.6:58208 | [Errno 104] Connection reset by peer
+93.104.208.238:3128 |  [Errno 111] Connection refused
