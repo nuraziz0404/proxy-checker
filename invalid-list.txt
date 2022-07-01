@@ -11649,3 +11649,8 @@
 103.145.57.109:8080 | Connection to 103.145.57.109 timed out. (connect timeout=60)
 213.159.251.173:8080 | Connection to 213.159.251.173 timed out. (connect timeout=60)
 5.101.98.235:3128 | Connection to 5.101.98.235 timed out. (connect timeout=60)
+192.111.135.17:18302 | [Errno 104] Connection reset by peer
+218.252.244.104:80 | Remote end closed connection without response
+183.88.52.181:8080 | Connection to 183.88.52.181 timed out. (connect timeout=60)
+185.94.215.18:8080 | Connection to 185.94.215.18 timed out. (connect timeout=60)
+172.105.33.85:7497 | [Errno 104] Connection reset by peer
