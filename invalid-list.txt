@@ -11683,3 +11683,4 @@
 170.83.79.105:999 | Connection to 170.83.79.105 timed out. (connect timeout=60)
 139.59.119.153:7497 |  [Errno 111] Connection refused
 156.253.5.246:1080 |  [Errno 111] Connection refused
+66.90.70.24:3128 |  [Errno 111] Connection refused
