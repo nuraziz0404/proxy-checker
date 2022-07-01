@@ -12352,3 +12352,28 @@
 112.78.131.2:8080 | Connection to 112.78.131.2 timed out. (connect timeout=60)
 140.227.66.63:3180 | Connection to 140.227.66.63 timed out. (connect timeout=60)
 91.106.65.107:9812 | Connection to 91.106.65.107 timed out. (connect timeout=60)
+91.226.241.81:6666 | Connection to 91.226.241.81 timed out. (connect timeout=60)
+188.165.254.122:12328 | Connection to 188.165.254.122 timed out. (connect timeout=60)
+183.89.159.69:8080 |  [Errno 111] Connection refused
+195.178.33.86:8080 | Connection to 195.178.33.86 timed out. (connect timeout=60)
+194.195.240.145:7497 |  [Errno 111] Connection refused
+118.163.13.200:8080 | Connection to 118.163.13.200 timed out. (connect timeout=60)
+184.178.172.13:15311 | [Errno 104] Connection reset by peer
+24.249.199.12:4145 | [Errno 104] Connection reset by peer
+46.105.124.159:7497 | [Errno 104] Connection reset by peer
+85.159.2.171:8080 | Connection to 85.159.2.171 timed out. (connect timeout=60)
+88.87.72.138:1080 | Connection to 88.87.72.138 timed out. (connect timeout=60)
+51.83.140.70:8181 | Connection to 51.83.140.70 timed out. (connect timeout=60)
+201.186.182.207:999 | Connection to 201.186.182.207 timed out. (connect timeout=60)
+185.108.140.69:8080 | Connection to 185.108.140.69 timed out. (connect timeout=60)
+66.175.222.195:7497 |  [Errno 111] Connection refused
+38.41.53.145:9090 | Connection to 38.41.53.145 timed out. (connect timeout=60)
+154.79.242.178:1686 | Connection to 154.79.242.178 timed out. (connect timeout=60)
+170.238.79.2:7497 | [Errno 104] Connection reset by peer
+139.99.52.104:7497 | [Errno 104] Connection reset by peer
+110.171.84.18:8080 | Connection to 110.171.84.18 timed out. (connect timeout=60)
+83.238.80.18:8081 | Connection to 83.238.80.18 timed out. (connect timeout=60)
+103.14.130.39:8080 | Connection to 103.14.130.39 timed out. (connect timeout=60)
+85.221.247.235:8080 | Connection to 85.221.247.235 timed out. (connect timeout=60)
+146.120.174.149:8989 | Connection to 146.120.174.149 timed out. (connect timeout=60)
+58.221.186.107:7302 | Connection to 58.221.186.107 timed out. (connect timeout=60)
