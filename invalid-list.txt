@@ -12651,3 +12651,13 @@
 181.143.235.100:12345 | Connection to 181.143.235.100 timed out. (connect timeout=60)
 185.189.199.75:23500 | Connection to 185.189.199.75 timed out. (connect timeout=60)
 37.187.114.131:80 | Connection to 37.187.114.131 timed out. (connect timeout=60)
+163.172.107.167:7497 |  [Errno 111] Connection refused
+190.217.14.124:999 | Connection to 190.217.14.124 timed out. (connect timeout=60)
+2.179.193.146:80 | Connection to 2.179.193.146 timed out. (connect timeout=60)
+78.186.85.160:10001 | Connection to 78.186.85.160 timed out. (connect timeout=60)
+177.141.99.50:8080 | Connection to 177.141.99.50 timed out. (connect timeout=60)
+181.143.106.162:52151 | Connection to 181.143.106.162 timed out. (connect timeout=60)
+119.8.53.155:1080 | Connection to 119.8.53.155 timed out. (connect timeout=60)
+72.221.172.203:4145 | [Errno 104] Connection reset by peer
+77.70.35.87:37475 | Connection to 77.70.35.87 timed out. (connect timeout=60)
+116.80.41.12:80 | Connection to 116.80.41.12 timed out. (connect timeout=60)
