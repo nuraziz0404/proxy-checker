@@ -12527,3 +12527,6 @@
 189.4.184.34:8080 | Connection to 189.4.184.34 timed out. (connect timeout=60)
 94.75.76.3:8080 | Connection to 94.75.76.3 timed out. (connect timeout=60)
 220.116.226.105:80 | Connection to 220.116.226.105 timed out. (connect timeout=60)
+85.133.130.18:8080 | Connection to 85.133.130.18 timed out. (connect timeout=60)
+189.89.159.30:8089 | Connection to 189.89.159.30 timed out. (connect timeout=60)
+72.195.34.35:27360 | [Errno 104] Connection reset by peer
