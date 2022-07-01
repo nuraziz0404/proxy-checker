@@ -12007,3 +12007,17 @@
 192.252.209.155:14455 | [Errno 104] Connection reset by peer
 46.105.124.159:7497 | [Errno 104] Connection reset by peer
 43.156.74.237:1080 | Connection to 43.156.74.237 timed out. (connect timeout=60)
+72.206.181.105:64935 | [Errno 104] Connection reset by peer
+72.221.164.34:60671 | [Errno 104] Connection reset by peer
+69.61.200.104:36181 | [Errno 104] Connection reset by peer
+192.111.135.18:18301 | [Errno 104] Connection reset by peer
+172.105.33.85:7497 | [Errno 104] Connection reset by peer
+167.71.227.140:7497 | Connection to 167.71.227.140 timed out. (connect timeout=60)
+151.80.252.69:50356 | Connection to 151.80.252.69 timed out. (connect timeout=60)
+72.221.196.157:35904 | [Errno 104] Connection reset by peer
+72.206.181.123:4145 | [Errno 104] Connection reset by peer
+61.130.151.230:7302 | Remote end closed connection without response
+24.249.199.4:4145 | [Errno 104] Connection reset by peer
+103.85.232.20:1080 | Connection to 103.85.232.20 timed out. (connect timeout=60)
+192.111.137.34:18765 | [Errno 104] Connection reset by peer
+139.99.52.104:7497 | [Errno 104] Connection reset by peer
