@@ -12839,3 +12839,12 @@
 114.4.104.254:3128 | Connection to 114.4.104.254 timed out. (connect timeout=60)
 61.7.195.206:19156 | Connection to 61.7.195.206 timed out. (connect timeout=60)
 98.162.25.7:31653 | [Errno 104] Connection reset by peer
+116.254.116.234:8080 | Connection to 116.254.116.234 timed out. (connect timeout=60)
+185.202.165.1:53281 | Connection to 185.202.165.1 timed out. (connect timeout=60)
+131.100.51.250:999 | Connection to 131.100.51.250 timed out. (connect timeout=60)
+185.104.252.10:9090 | Connection to 185.104.252.10 timed out. (connect timeout=60)
+139.59.1.14:3128 |  [Errno 111] Connection refused
+191.102.251.25:8085 | Connection to 191.102.251.25 timed out. (connect timeout=60)
+188.163.170.130:41209 | Connection to 188.163.170.130 timed out. (connect timeout=60)
+185.189.186.19:8080 | Connection to 185.189.186.19 timed out. (connect timeout=60)
+195.64.235.202:33128 |  [Errno 111] Connection refused
