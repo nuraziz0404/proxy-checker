@@ -15467,3 +15467,10 @@
 103.250.153.202:41889 | Connection to 103.250.153.202 timed out. (connect timeout=60)
 119.15.86.30:8080 | Connection to 119.15.86.30 timed out. (connect timeout=60)
 88.250.210.100:38271 | Connection to 88.250.210.100 timed out. (connect timeout=60)
+103.79.74.3:4145 | [Errno 104] Connection reset by peer
+103.213.213.22:82 | Connection to 103.213.213.22 timed out. (connect timeout=60)
+82.79.213.118:9812 | Connection to 82.79.213.118 timed out. (connect timeout=60)
+45.112.127.78:8080 | Connection to 45.112.127.78 timed out. (connect timeout=60)
+109.121.55.162:8888 | Connection to 109.121.55.162 timed out. (connect timeout=60)
+49.48.114.114:8080 |  [Errno 111] Connection refused
+203.210.84.171:8181 | Connection to 203.210.84.171 timed out. (connect timeout=60)
