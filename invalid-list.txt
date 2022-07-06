@@ -18936,3 +18936,35 @@
 67.212.83.55:1080 | Connection to 67.212.83.55 timed out. (connect timeout=60)
 80.85.86.240:1235 |  [Errno 111] Connection refused
 8.209.102.180:3128 | Connection to 8.209.102.180 timed out. (connect timeout=60)
+200.105.215.18:3363 |  [Errno 111] Connection refused
+41.79.9.246:8080 | Connection to 41.79.9.246 timed out. (connect timeout=60)
+151.106.18.123:1080 | Connection to 151.106.18.123 timed out. (connect timeout=60)
+188.163.170.130:4120 |  [Errno 111] Connection refused
+212.115.232.79:3128 |  [Errno 111] Connection refused
+77.236.243.69:1256 | Connection to 77.236.243.69 timed out. (connect timeout=60)
+85.217.192.39:1414 | Connection to 85.217.192.39 timed out. (connect timeout=60)
+186.125.218.236:999 | Connection to 186.125.218.236 timed out. (connect timeout=60)
+191.102.107.235:999 | Connection to 191.102.107.235 timed out. (connect timeout=60)
+181.232.190.220:999 |  [Errno 111] Connection refused
+128.90.172.130:3308 | Connection to 128.90.172.130 timed out. (connect timeout=60)
+190.2.210.114:999 | Connection to 190.2.210.114 timed out. (connect timeout=60)
+151.106.17.122:1080 | Connection to 151.106.17.122 timed out. (connect timeout=60)
+151.106.17.125:1080 | Connection to 151.106.17.125 timed out. (connect timeout=60)
+103.168.44.118:8080 | Connection to 103.168.44.118 timed out. (connect timeout=60)
+94.127.219.99:8080 | Connection to 94.127.219.99 timed out. (connect timeout=60)
+190.14.249.174:999 | Connection to 190.14.249.174 timed out. (connect timeout=60)
+67.212.83.54:1080 | Connection to 67.212.83.54 timed out. (connect timeout=60)
+36.91.45.10:5167 |  [Errno 111] Connection refused
+91.214.31.234:8080 | Connection to 91.214.31.234 timed out. (connect timeout=60)
+185.136.151.138:4189 |  [Errno 111] Connection refused
+103.152.100.187:8080 | Connection to 103.152.100.187 timed out. (connect timeout=60)
+45.182.22.54:999 | Connection to 45.182.22.54 timed out. (connect timeout=60)
+81.91.144.190:5544 |  [Errno 111] Connection refused
+91.134.136.29:9000 | Connection to 91.134.136.29 timed out. (connect timeout=60)
+151.106.17.123:1080 | Connection to 151.106.17.123 timed out. (connect timeout=60)
+80.78.237.2:5544 |  [Errno 111] Connection refused
+181.143.235.100:1234 |  [Errno 111] Connection refused
+194.233.73.103:443 | Connection to 194.233.73.103 timed out. (connect timeout=60)
+36.37.91.98:9812 |  [Errno 111] Connection refused
+35.240.63.166:3128 | Connection to 35.240.63.166 timed out. (connect timeout=60)
+149.54.11.71:80 | Connection to 149.54.11.71 timed out. (connect timeout=60)
