@@ -19773,3 +19773,5 @@
 91.211.246.30:3128 |  [Errno 111] Connection refused
 45.230.225.1:666 | Connection to 45.230.225.1 timed out. (connect timeout=60)
 66.94.116.111:3128 | Connection to 66.94.116.111 timed out. (connect timeout=60)
+207.180.199.65:3128 |  [Errno 111] Connection refused
+115.225.206.186:7890 |  [Errno 111] Connection refused
