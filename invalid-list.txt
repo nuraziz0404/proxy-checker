@@ -18872,3 +18872,5 @@
 50.232.250.157:8080 | Connection to 50.232.250.157 timed out. (connect timeout=60)
 184.168.124.245:2701 |  [Errno 111] Connection refused
 152.44.40.139:5566 | Connection to 152.44.40.139 timed out. (connect timeout=60)
+213.230.97.10:3128 | Connection to 213.230.97.10 timed out. (connect timeout=60)
+104.131.109.98:3128 | Connection to 104.131.109.98 timed out. (connect timeout=60)
