@@ -18845,3 +18845,30 @@
 174.32.109.194:87 | Connection to 174.32.109.194 timed out. (connect timeout=60)
 85.96.193.204:8080 | Connection to 85.96.193.204 timed out. (connect timeout=60)
 24.51.32.59:8080 | Connection to 24.51.32.59 timed out. (connect timeout=60)
+80.91.117.246:8089 | Connection to 80.91.117.246 timed out. (connect timeout=60)
+213.6.199.94:4904 |  [Errno 111] Connection refused
+180.183.13.191:8080 | Connection to 180.183.13.191 timed out. (connect timeout=60)
+200.54.194.10:5328 |  [Errno 111] Connection refused
+190.217.14.18:999 | Connection to 190.217.14.18 timed out. (connect timeout=60)
+69.43.44.106:8080 | Connection to 69.43.44.106 timed out. (connect timeout=60)
+200.110.168.159:8080 | Connection to 200.110.168.159 timed out. (connect timeout=60)
+194.233.69.90:443 | Connection to 194.233.69.90 timed out. (connect timeout=60)
+173.82.149.243:8080 | Connection to 173.82.149.243 timed out. (connect timeout=60)
+78.154.180.52:81 | [Errno 104] Connection reset by peer
+157.90.222.231:8080 | Connection to 157.90.222.231 timed out. (connect timeout=60)
+117.54.114.97:80 | Connection to 117.54.114.97 timed out. (connect timeout=60)
+161.97.74.153:81 | Connection to 161.97.74.153 timed out. (connect timeout=60)
+88.250.210.100:3827 | Connection to 88.250.210.100 timed out. (connect timeout=60)
+138.117.85.97:999 | Connection to 138.117.85.97 timed out. (connect timeout=60)
+93.104.208.238:3128 |  [Errno 111] Connection refused
+41.60.237.65:3409 |  [Errno 111] Connection refused
+103.216.82.20:6666 | Connection to 103.216.82.20 timed out. (connect timeout=60)
+185.242.86.9:8080 | Connection to 185.242.86.9 timed out. (connect timeout=60)
+45.173.4.3:8081 | Connection to 45.173.4.3 timed out. (connect timeout=60)
+180.191.20.102:8080 | Connection to 180.191.20.102 timed out. (connect timeout=60)
+3.226.168.144:80 | Connection to 3.226.168.144 timed out. (connect timeout=60)
+128.199.202.122:3128 | [Errno 104] Connection reset by peer
+49.48.54.32:8080 | Connection to 49.48.54.32 timed out. (connect timeout=60)
+50.232.250.157:8080 | Connection to 50.232.250.157 timed out. (connect timeout=60)
+184.168.124.245:2701 |  [Errno 111] Connection refused
+152.44.40.139:5566 | Connection to 152.44.40.139 timed out. (connect timeout=60)
