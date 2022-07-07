@@ -19960,3 +19960,26 @@
 178.255.44.199:41890 | Connection to 178.255.44.199 timed out. (connect timeout=60)
 91.226.241.81:6666 | Connection to 91.226.241.81 timed out. (connect timeout=60)
 88.1.165.103:3128 | Connection to 88.1.165.103 timed out. (connect timeout=60)
+91.134.136.29:9000 | [Errno 104] Connection reset by peer
+139.59.1.14:3128 |  [Errno 111] Connection refused
+103.197.206.19:8080 | Connection to 103.197.206.19 timed out. (connect timeout=60)
+41.220.238.137:83 | Connection to 41.220.238.137 timed out. (connect timeout=60)
+178.136.2.208:55443 | Connection to 178.136.2.208 timed out. (connect timeout=60)
+95.111.245.112:3128 | Connection to 95.111.245.112 timed out. (connect timeout=60)
+172.241.137.141:8118 | Connection to 172.241.137.141 timed out. (connect timeout=60)
+41.190.55.154:5678 | Connection to 41.190.55.154 timed out. (connect timeout=60)
+5.101.98.235:3128 | Connection to 5.101.98.235 timed out. (connect timeout=60)
+185.200.37.62:9090 | Remote end closed connection without response
+182.163.52.60:23456 | Connection to 182.163.52.60 timed out. (connect timeout=60)
+52.205.194.215:3128 | Connection to 52.205.194.215 timed out. (connect timeout=60)
+45.199.131.221:3128 | Connection to 45.199.131.221 timed out. (connect timeout=60)
+49.156.1.186:5678 | Connection to 49.156.1.186 timed out. (connect timeout=60)
+96.36.50.99:39593 | [Errno 104] Connection reset by peer
+154.236.168.181:1976 | Connection to 154.236.168.181 timed out. (connect timeout=60)
+23.108.78.133:8118 | Connection to 23.108.78.133 timed out. (connect timeout=60)
+208.180.105.70:8080 | Connection to 208.180.105.70 timed out. (connect timeout=60)
+124.122.1.54:8080 |  [Errno 111] Connection refused
+89.70.153.61:8118 | Connection to 89.70.153.61 timed out. (connect timeout=60)
+66.90.70.24:3128 |  [Errno 111] Connection refused
+179.96.28.58:80 | Connection to 179.96.28.58 timed out. (connect timeout=60)
+31.43.122.180:51372 | Connection to 31.43.122.180 timed out. (connect timeout=60)
