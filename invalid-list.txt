@@ -20945,3 +20945,13 @@
 103.250.153.202:41889 | Connection to 103.250.153.202 timed out. (connect timeout=60)
 88.248.2.160:5678 | Connection to 88.248.2.160 timed out. (connect timeout=60)
 119.15.86.30:8080 | Connection to 119.15.86.30 timed out. (connect timeout=60)
+111.225.153.123:8089 |  [Errno 111] Connection refused
+103.79.74.3:4145 | Remote end closed connection without response
+81.91.145.206:8010 | Connection to 81.91.145.206 timed out. (connect timeout=60)
+45.57.192.40:3128 | Connection to 45.57.192.40 timed out. (connect timeout=60)
+103.213.213.22:82 | Connection to 103.213.213.22 timed out. (connect timeout=60)
+82.79.213.118:9812 | Connection to 82.79.213.118 timed out. (connect timeout=60)
+45.112.127.78:8080 | Connection to 45.112.127.78 timed out. (connect timeout=60)
+49.48.114.114:8080 | Connection to 49.48.114.114 timed out. (connect timeout=60)
+203.210.84.171:8181 | Connection to 203.210.84.171 timed out. (connect timeout=60)
+46.209.196.147:8080 | Connection to 46.209.196.147 timed out. (connect timeout=60)
