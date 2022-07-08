@@ -21403,3 +21403,9 @@
 85.198.142.186:8081 | Connection to 85.198.142.186 timed out. (connect timeout=60)
 83.220.47.146:8080 | Connection to 83.220.47.146 timed out. (connect timeout=60)
 83.238.80.17:8081 | Connection to 83.238.80.17 timed out. (connect timeout=60)
+87.103.175.250:9812 |  [Errno 111] Connection refused
+87.241.220.104:8080 | [Errno 104] Connection reset by peer
+89.218.5.109:37717 | Connection to 89.218.5.109 timed out. (connect timeout=60)
+87.249.6.137:8082 | Connection to 87.249.6.137 timed out. (connect timeout=60)
+89.218.5.110:37717 | Connection to 89.218.5.110 timed out. (connect timeout=60)
+89.237.33.193:51549 | Connection to 89.237.33.193 timed out. (connect timeout=60)
