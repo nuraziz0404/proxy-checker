@@ -21259,3 +21259,9 @@
 45.17.249.223:8080 | Connection to 45.17.249.223 timed out. (connect timeout=60)
 45.64.11.217:8080 | Connection to 45.64.11.217 timed out. (connect timeout=60)
 45.65.132.149:8080 | Connection to 45.65.132.149 timed out. (connect timeout=60)
+45.70.14.58:999 |  [Errno 111] Connection refused
+45.164.150.122:999 | Connection to 45.164.150.122 timed out. (connect timeout=60)
+45.70.15.2:8080 | Connection to 45.70.15.2 timed out. (connect timeout=60)
+45.70.15.6:8080 | Connection to 45.70.15.6 timed out. (connect timeout=60)
+45.70.15.7:8080 | Connection to 45.70.15.7 timed out. (connect timeout=60)
+45.167.90.21:999 | Connection to 45.167.90.21 timed out. (connect timeout=60)
