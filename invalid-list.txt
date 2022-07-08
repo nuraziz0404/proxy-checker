@@ -22277,3 +22277,16 @@
 213.6.227.38:34081 | Remote end closed connection without response
 207.154.221.245:3128 | Connection to 207.154.221.245 timed out. (connect timeout=60)
 213.178.39.170:8080 | Connection to 213.178.39.170 timed out. (connect timeout=60)
+221.155.163.113:8080 | Connection to 221.155.163.113 timed out. (connect timeout=60)
+213.194.113.128:9090 | Connection to 213.194.113.128 timed out. (connect timeout=60)
+213.226.11.149:59086 | Connection to 213.226.11.149 timed out. (connect timeout=60)
+222.252.156.61:62694 | Connection to 222.252.156.61 timed out. (connect timeout=60)
+213.242.252.137:3128 | Connection to 213.242.252.137 timed out. (connect timeout=60)
+49.48.54.32:8080 |  [Errno 111] Connection refused
+216.169.73.65:34679 | Connection to 216.169.73.65 timed out. (connect timeout=60)
+216.176.187.99:30039 | Remote end closed connection without response
+185.124.84.82:3128 | Connection to 185.124.84.82 timed out. (connect timeout=60)
+217.11.79.232:8080 | Connection to 217.11.79.232 timed out. (connect timeout=60)
+190.112.137.81:8085 | Connection to 190.112.137.81 timed out. (connect timeout=60)
+217.60.194.43:8080 | Connection to 217.60.194.43 timed out. (connect timeout=60)
+217.60.194.53:8080 | Connection to 217.60.194.53 timed out. (connect timeout=60)
