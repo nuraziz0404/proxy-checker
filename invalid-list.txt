@@ -22640,3 +22640,12 @@
 43.155.111.39:80 | Connection to 43.155.111.39 timed out. (connect timeout=60)
 47.57.188.208:80 | Remote end closed connection without response
 43.129.95.244:8080 | Connection to 43.129.95.244 timed out. (connect timeout=60)
+218.253.141.178:8080 | [Errno 104] Connection reset by peer
+42.2.189.238:80 | [Errno 104] Connection reset by peer
+8.218.213.95:10809 | Connection to 8.218.213.95 timed out. (connect timeout=60)
+43.132.200.137:9812 | Connection to 43.132.200.137 timed out. (connect timeout=60)
+45.120.216.98:12345 | Connection to 45.120.216.98 timed out. (connect timeout=60)
+47.243.40.107:80 | Connection to 47.243.40.107 timed out. (connect timeout=60)
+191.101.56.254:999 | Connection to 191.101.56.254 timed out. (connect timeout=60)
+103.68.62.11:80 | Connection to 103.68.62.11 timed out. (connect timeout=60)
+113.255.97.254:8888 | Connection to 113.255.97.254 timed out. (connect timeout=60)
