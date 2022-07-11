@@ -26349,3 +26349,16 @@
 52.205.194.215:3128 | Connection to 52.205.194.215 timed out. (connect timeout=60)
 88.255.106.30:8080 | Connection to 88.255.106.30 timed out. (connect timeout=60)
 190.8.34.86:999 | Connection to 190.8.34.86 timed out. (connect timeout=60)
+43.228.125.189:8080 | [Errno 104] Connection reset by peer
+213.171.63.210:41890 | Connection to 213.171.63.210 timed out. (connect timeout=60)
+36.37.160.242:8080 | Connection to 36.37.160.242 timed out. (connect timeout=60)
+13.233.158.170:80 |  405 Method Not Allowed
+87.76.1.69:8080 | Connection to 87.76.1.69 timed out. (connect timeout=60)
+94.242.54.119:3128 |  [Errno 111] Connection refused
+195.211.180.156:3128 | Connection to 195.211.180.156 timed out. (connect timeout=60)
+91.150.67.17:8080 | Connection to 91.150.67.17 timed out. (connect timeout=60)
+95.140.31.39:41890 | Connection to 95.140.31.39 timed out. (connect timeout=60)
+213.33.152.178:41890 | Connection to 213.33.152.178 timed out. (connect timeout=60)
+5.101.98.235:3128 | Connection to 5.101.98.235 timed out. (connect timeout=60)
+61.78.63.200:30000 |  [Errno 111] Connection refused
+23.236.144.90:3128 | Connection to 23.236.144.90 timed out. (connect timeout=60)
